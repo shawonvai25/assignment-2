@@ -1,0 +1,16 @@
+@media only screen and (max-width: 576px) {
+  .banner-section,
+  .nav-section {
+    display: none;
+  }
+
+  .popular-tour {
+    flex-direction: column;
+  }
+  .popular-text {
+    width: 100%;
+  }
+  .popular-image {
+    width: 100%;
+  }
+}
